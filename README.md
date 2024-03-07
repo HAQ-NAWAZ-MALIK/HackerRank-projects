@@ -10,6 +10,7 @@ https://www.hackerrank.com/profile/HAQ_NAWAZ_MALIK
 ![link](https://hrcdn.net/s3_pub/istreet-assets/j3Q6jXZ3DOOPRlCs9hFcnQ)
 
 
+![image](https://github.com/HAQ-NAWAZ-MALIK/HackerRank-projects/assets/86514900/d7d9b591-4b01-498a-a3b2-7b88a3379dff)
 
 
 ## Environment
