@@ -1,4 +1,14 @@
-# React: Slideshow App & Sorting Articles
+![image](https://github.com/HAQ-NAWAZ-MALIK/HackerRank-projects/assets/86514900/8edba1d4-b6b1-4a32-a690-43294357afd2)# React: Slideshow App & Sorting Articles
+
+
+
+
+[![Certification]()]([](https://www.hackerrank.com/certificates/b054db2da31d))
+
+
+
+
+
 
 ## Environment
 
