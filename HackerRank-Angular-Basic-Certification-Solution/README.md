@@ -4,19 +4,14 @@ Contains solved component, tests for the HackerRank Angular (Basic) Skills Certi
 
 ![problems-solved](https://img.shields.io/badge/problem%20solved-2-1f72ff.svg)
 
-I have taken HackerRank [test](https://www.hackerrank.com/skills-verification/angular_basic) on __8rd June 2022__. 
-Certificate can be viewed [here](https://www.hackerrank.com/certificates/d7de6c3b63e2)
+I have taken HackerRank [test](https://www.hackerrank.com/skills-verification/angular_basic) on __7th march 2023__. 
+Certificate can be viewed ![image](https://github.com/HAQ-NAWAZ-MALIK/HackerRank-projects/assets/86514900/9b819830-9968-405c-93ba-ca7962d9172e)
+
 
 2 Questions are asked,, provided the solution also:
 ## Programs 
 - [Angular: Weather Component/Details](weather-component)
 - [Angular: Temperature Converter](temperature-converter)
-
-## How to Use
-- Open HackerRank Test
-- Select Question
-- Copy the `{Program}/src/app/{Program}/file.component.html` and `{Program}/src/app/{Program}/file.component.ts`
-- Paste into the same directory in HackerRank website, only 2 files should be replaced mentioned in above line.
 
 
 ## New Questions?
