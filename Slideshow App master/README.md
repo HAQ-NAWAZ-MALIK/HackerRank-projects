@@ -1,6 +1,6 @@
 # React: Slideshow App
 
-
+![image](https://github.com/HAQ-NAWAZ-MALIK/HackerRank-projects/assets/86514900/8edba1d4-b6b1-4a32-a690-43294357afd2)
 ## Environment
 
 - React Version: 16.13.1
@@ -9,7 +9,6 @@
 
 
 
-[![Certification](https://www.hackerrank.com/certificates/b054db2da31d)]([](https://www.hackerrank.com/certificates/b054db2da31d))
 
 ## Project Specifications
 
