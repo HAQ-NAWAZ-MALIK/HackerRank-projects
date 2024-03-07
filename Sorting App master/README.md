@@ -9,7 +9,7 @@ Create a basic article sorting application, as shown below. Some core functional
 The app has one component named Articles. The list of articles to be displayed is already provided in the app.
 
 The app must have the following functionalities:
-
+![image](https://github.com/HAQ-NAWAZ-MALIK/HackerRank-projects/assets/86514900/8edba1d4-b6b1-4a32-a690-43294357afd2)
 - The list of articles is passed to the App component as a prop in the form of an array of objects.
 - Each article has the following three properties:
   - title: The title of the article [STRING]
