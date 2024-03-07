@@ -3,7 +3,8 @@
 
 
 https://www.hackerrank.com/profile/HAQ_NAWAZ_MALIK
-[![Certification](https://www.hackerrank.com/profile/HAQ_NAWAZ_MALIK)
+
+## SCAN QR to see my HACKERRANK profie
 ![image](https://github.com/HAQ-NAWAZ-MALIK/HackerRank-projects/assets/86514900/faabd3e2-aab6-4161-9601-2625bc3c4b20)
 
 ![link](https://hrcdn.net/s3_pub/istreet-assets/j3Q6jXZ3DOOPRlCs9hFcnQ)
